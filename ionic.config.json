@@ -1,0 +1,7 @@
+{
+  "name": "homestead-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
